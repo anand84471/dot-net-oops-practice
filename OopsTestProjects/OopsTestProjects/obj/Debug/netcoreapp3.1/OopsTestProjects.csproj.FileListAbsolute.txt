@@ -1,0 +1,13 @@
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.exe
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.deps.json
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.runtimeconfig.json
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.runtimeconfig.dev.json
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.dll
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\bin\Debug\netcoreapp3.1\OopsTestProjects.pdb
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.csproj.AssemblyReference.cache
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.AssemblyInfoInputs.cache
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.AssemblyInfo.cs
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.csproj.CoreCompileInputs.cache
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.dll
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.pdb
+C:\learning\github\main\dot-net-oops-practice\OopsTestProjects\OopsTestProjects\obj\Debug\netcoreapp3.1\OopsTestProjects.genruntimeconfig.cache
