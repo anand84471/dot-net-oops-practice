@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ClassTopics\" />
+    <Folder Include="DependencyInjection\" />
+    <Folder Include="MultiThreading\" />
+    <Folder Include="DesignPattern\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Excpetion\" />
+    <Folder Include="SolidPrincples\" />
+  </ItemGroup>
+
 </Project>
